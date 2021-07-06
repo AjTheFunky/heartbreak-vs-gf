@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GirlfriendChristmas.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Girlfriend Sing Note DOWN0000" x="0" y="0" width="470" height="736"/>
+	<SubTexture name="Girlfriend Sing Note DOWN0001" x="0" y="0" width="470" height="736"/>
+	<SubTexture name="Girlfriend Sing Note DOWN0002" x="480" y="0" width="470" height="736"/>
+	<SubTexture name="Girlfriend Sing Note DOWN0003" x="480" y="0" width="470" height="736"/>
+	<SubTexture name="Girlfriend Sing Note DOWN0004" x="480" y="0" width="470" height="736"/>
+	<SubTexture name="Girlfriend Sing Note DOWN0005" x="480" y="0" width="470" height="736"/>
+	<SubTexture name="Girlfriend Sing Note DOWN0006" x="480" y="0" width="470" height="736"/>
+	<SubTexture name="Girlfriend Sing Note DOWN0007" x="480" y="0" width="470" height="736"/>
+	<SubTexture name="Girlfriend Sing Note DOWN0008" x="480" y="0" width="470" height="736"/>
+	<SubTexture name="Girlfriend Sing Note DOWN0009" x="480" y="0" width="470" height="736"/>
+	<SubTexture name="Girlfriend Sing Note LEFT0000" x="960" y="0" width="424" height="776"/>
+	<SubTexture name="Girlfriend Sing Note LEFT0001" x="960" y="0" width="424" height="776"/>
+	<SubTexture name="Girlfriend Sing Note LEFT0002" x="1394" y="0" width="424" height="776"/>
+	<SubTexture name="Girlfriend Sing Note LEFT0003" x="1394" y="0" width="424" height="776"/>
+	<SubTexture name="Girlfriend Sing Note LEFT0004" x="1394" y="0" width="424" height="776"/>
+	<SubTexture name="Girlfriend Sing Note LEFT0005" x="1394" y="0" width="424" height="776"/>
+	<SubTexture name="Girlfriend Sing Note LEFT0006" x="1394" y="0" width="424" height="776"/>
+	<SubTexture name="Girlfriend Sing Note LEFT0007" x="1394" y="0" width="424" height="776"/>
+	<SubTexture name="Girlfriend Sing Note LEFT0008" x="1394" y="0" width="424" height="776"/>
+	<SubTexture name="Girlfriend Sing Note LEFT0009" x="1394" y="0" width="424" height="776"/>
+	<SubTexture name="Girlfriend Sing Note LEFT0010" x="1394" y="0" width="424" height="776"/>
+	<SubTexture name="Girlfriend Sing Note RIGHT0000" x="1828" y="0" width="472" height="794"/>
+	<SubTexture name="Girlfriend Sing Note RIGHT0001" x="1828" y="0" width="472" height="794"/>
+	<SubTexture name="Girlfriend Sing Note RIGHT0002" x="2310" y="0" width="471" height="794" frameX="0" frameY="0" frameWidth="472" frameHeight="794"/>
+	<SubTexture name="Girlfriend Sing Note RIGHT0003" x="2310" y="0" width="471" height="794" frameX="0" frameY="0" frameWidth="472" frameHeight="794"/>
+	<SubTexture name="Girlfriend Sing Note RIGHT0004" x="2310" y="0" width="471" height="794" frameX="0" frameY="0" frameWidth="472" frameHeight="794"/>
+	<SubTexture name="Girlfriend Sing Note RIGHT0005" x="2310" y="0" width="471" height="794" frameX="0" frameY="0" frameWidth="472" frameHeight="794"/>
+	<SubTexture name="Girlfriend Sing Note RIGHT0006" x="2310" y="0" width="471" height="794" frameX="0" frameY="0" frameWidth="472" frameHeight="794"/>
+	<SubTexture name="Girlfriend Sing Note RIGHT0007" x="2310" y="0" width="471" height="794" frameX="0" frameY="0" frameWidth="472" frameHeight="794"/>
+	<SubTexture name="Girlfriend Sing Note RIGHT0008" x="2310" y="0" width="471" height="794" frameX="0" frameY="0" frameWidth="472" frameHeight="794"/>
+	<SubTexture name="Girlfriend Sing Note RIGHT0009" x="2310" y="0" width="471" height="794" frameX="0" frameY="0" frameWidth="472" frameHeight="794"/>
+	<SubTexture name="Girlfriend Sing Note RIGHT0010" x="2310" y="0" width="471" height="794" frameX="0" frameY="0" frameWidth="472" frameHeight="794"/>
+	<SubTexture name="Girlfriend Sing Note UP0000" x="2791" y="0" width="424" height="817"/>
+	<SubTexture name="Girlfriend Sing Note UP0001" x="2791" y="0" width="424" height="817"/>
+	<SubTexture name="Girlfriend Sing Note UP0002" x="3225" y="0" width="424" height="817"/>
+	<SubTexture name="Girlfriend Sing Note UP0003" x="3225" y="0" width="424" height="817"/>
+	<SubTexture name="Girlfriend Sing Note UP0004" x="3225" y="0" width="424" height="817"/>
+	<SubTexture name="Girlfriend Sing Note UP0005" x="3225" y="0" width="424" height="817"/>
+	<SubTexture name="Girlfriend Sing Note UP0006" x="3225" y="0" width="424" height="817"/>
+	<SubTexture name="Girlfriend Sing Note UP0007" x="3225" y="0" width="424" height="817"/>
+	<SubTexture name="Girlfriend Sing Note UP0008" x="3225" y="0" width="424" height="817"/>
+	<SubTexture name="Girlfriend Sing Note UP0009" x="3225" y="0" width="424" height="817"/>
+	<SubTexture name="Girlfriend idle dance0000" x="3659" y="0" width="424" height="769" frameX="0" frameY="0" frameWidth="424" frameHeight="770"/>
+	<SubTexture name="Girlfriend idle dance0001" x="3659" y="0" width="424" height="769" frameX="0" frameY="0" frameWidth="424" frameHeight="770"/>
+	<SubTexture name="Girlfriend idle dance0002" x="0" y="827" width="424" height="770"/>
+	<SubTexture name="Girlfriend idle dance0003" x="0" y="827" width="424" height="770"/>
+	<SubTexture name="Girlfriend idle dance0004" x="434" y="827" width="424" height="770"/>
+	<SubTexture name="Girlfriend idle dance0005" x="434" y="827" width="424" height="770"/>
+	<SubTexture name="Girlfriend idle dance0006" x="868" y="827" width="424" height="770"/>
+	<SubTexture name="Girlfriend idle dance0007" x="868" y="827" width="424" height="770"/>
+	<SubTexture name="Girlfriend idle dance0008" x="868" y="827" width="424" height="770"/>
+	<SubTexture name="Girlfriend idle dance0009" x="868" y="827" width="424" height="770"/>
+	<SubTexture name="Girlfriend idle dance0010" x="868" y="827" width="424" height="770"/>
+	<SubTexture name="Girlfriend idle dance0011" x="868" y="827" width="424" height="770"/>
+	<SubTexture name="Girlfriend idle dance0012" x="868" y="827" width="424" height="770"/>
+	<SubTexture name="Girlfriend idle dance0013" x="868" y="827" width="424" height="770"/>
+</TextureAtlas>

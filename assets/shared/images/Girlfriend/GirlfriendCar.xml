@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GirlfriendCar.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Girlfriend DOWN POSE0000" x="0" y="0" width="574" height="613" frameX="-4" frameY="0" frameWidth="639" frameHeight="613"/>
+	<SubTexture name="Girlfriend DOWN POSE0001" x="0" y="0" width="574" height="613" frameX="-4" frameY="0" frameWidth="639" frameHeight="613"/>
+	<SubTexture name="Girlfriend DOWN POSE0002" x="574" y="0" width="639" height="597" frameX="0" frameY="-16" frameWidth="639" frameHeight="613"/>
+	<SubTexture name="Girlfriend DOWN POSE0003" x="1213" y="0" width="579" height="597" frameX="0" frameY="-16" frameWidth="639" frameHeight="613"/>
+	<SubTexture name="Girlfriend DOWN POSE0004" x="1792" y="0" width="588" height="600" frameX="0" frameY="-13" frameWidth="639" frameHeight="613"/>
+	<SubTexture name="Girlfriend DOWN POSE0005" x="1792" y="0" width="588" height="600" frameX="0" frameY="-13" frameWidth="639" frameHeight="613"/>
+	<SubTexture name="Girlfriend DOWN POSE0006" x="574" y="0" width="639" height="597" frameX="0" frameY="-13" frameWidth="639" frameHeight="613"/>
+	<SubTexture name="Girlfriend DOWN POSE0007" x="1213" y="0" width="579" height="597" frameX="0" frameY="-13" frameWidth="639" frameHeight="613"/>
+	<SubTexture name="Girlfriend DOWN POSE0008" x="1792" y="0" width="588" height="600" frameX="0" frameY="-13" frameWidth="639" frameHeight="613"/>
+	<SubTexture name="Girlfriend DOWN POSE0009" x="1792" y="0" width="588" height="600" frameX="0" frameY="-13" frameWidth="639" frameHeight="613"/>
+	<SubTexture name="Girlfriend DOWN POSE0010" x="574" y="0" width="639" height="597" frameX="0" frameY="-13" frameWidth="639" frameHeight="613"/>
+	<SubTexture name="Girlfriend DOWN POSE0011" x="1213" y="0" width="579" height="597" frameX="0" frameY="-13" frameWidth="639" frameHeight="613"/>
+	<SubTexture name="Girlfriend DOWN POSE0012" x="1792" y="0" width="588" height="600" frameX="0" frameY="-13" frameWidth="639" frameHeight="613"/>
+	<SubTexture name="Girlfriend DOWN POSE0013" x="1792" y="0" width="588" height="600" frameX="0" frameY="-13" frameWidth="639" frameHeight="613"/>
+	<SubTexture name="Girlfriend DOWN POSE0014" x="574" y="0" width="639" height="597" frameX="0" frameY="-13" frameWidth="639" frameHeight="613"/>
+	<SubTexture name="Girlfriend Idle0000" x="2380" y="0" width="596" height="826" frameX="-3" frameY="-2" frameWidth="603" frameHeight="829"/>
+	<SubTexture name="Girlfriend Idle0001" x="2976" y="0" width="530" height="826" frameX="-3" frameY="-2" frameWidth="603" frameHeight="829"/>
+	<SubTexture name="Girlfriend Idle0002" x="3506" y="0" width="598" height="815" frameX="-3" frameY="-14" frameWidth="603" frameHeight="829"/>
+	<SubTexture name="Girlfriend Idle0003" x="4104" y="0" width="533" height="815" frameX="-3" frameY="-14" frameWidth="603" frameHeight="829"/>
+	<SubTexture name="Girlfriend Idle0004" x="4637" y="0" width="600" height="822" frameX="0" frameY="-7" frameWidth="603" frameHeight="829"/>
+	<SubTexture name="Girlfriend Idle0005" x="5237" y="0" width="539" height="822" frameX="0" frameY="-7" frameWidth="603" frameHeight="829"/>
+	<SubTexture name="Girlfriend Idle0006" x="5776" y="0" width="603" height="824" frameX="0" frameY="-5" frameWidth="603" frameHeight="829"/>
+	<SubTexture name="Girlfriend Idle0007" x="6379" y="0" width="542" height="824" frameX="0" frameY="-5" frameWidth="603" frameHeight="829"/>
+	<SubTexture name="Girlfriend Idle0008" x="6921" y="0" width="551" height="828" frameX="0" frameY="-1" frameWidth="603" frameHeight="829"/>
+	<SubTexture name="Girlfriend Idle0009" x="6921" y="0" width="551" height="828" frameX="0" frameY="-1" frameWidth="603" frameHeight="829"/>
+	<SubTexture name="Girlfriend Idle0010" x="7472" y="0" width="603" height="829"/>
+	<SubTexture name="Girlfriend Idle0011" x="0" y="829" width="542" height="829" frameX="0" frameY="0" frameWidth="603" frameHeight="829"/>
+	<SubTexture name="Girlfriend Idle0012" x="6921" y="0" width="551" height="828" frameX="0" frameY="0" frameWidth="603" frameHeight="829"/>
+	<SubTexture name="Girlfriend Idle0013" x="6921" y="0" width="551" height="828" frameX="0" frameY="0" frameWidth="603" frameHeight="829"/>
+	<SubTexture name="Girlfriend Left Pose0000" x="542" y="829" width="701" height="818" frameX="0" frameY="0" frameWidth="711" frameHeight="818"/>
+	<SubTexture name="Girlfriend Left Pose0001" x="1243" y="829" width="635" height="818" frameX="0" frameY="0" frameWidth="711" frameHeight="818"/>
+	<SubTexture name="Girlfriend Left Pose0002" x="1878" y="829" width="647" height="803" frameX="-11" frameY="-15" frameWidth="711" frameHeight="818"/>
+	<SubTexture name="Girlfriend Left Pose0003" x="1878" y="829" width="647" height="803" frameX="-11" frameY="-15" frameWidth="711" frameHeight="818"/>
+	<SubTexture name="Girlfriend Left Pose0004" x="2525" y="829" width="700" height="807" frameX="-11" frameY="-11" frameWidth="711" frameHeight="818"/>
+	<SubTexture name="Girlfriend Left Pose0005" x="3225" y="829" width="637" height="807" frameX="-11" frameY="-11" frameWidth="711" frameHeight="818"/>
+	<SubTexture name="Girlfriend Left Pose0006" x="3862" y="829" width="647" height="807" frameX="-11" frameY="-11" frameWidth="711" frameHeight="818"/>
+	<SubTexture name="Girlfriend Left Pose0007" x="3862" y="829" width="647" height="807" frameX="-11" frameY="-11" frameWidth="711" frameHeight="818"/>
+	<SubTexture name="Girlfriend Left Pose0008" x="2525" y="829" width="700" height="807" frameX="-11" frameY="-11" frameWidth="711" frameHeight="818"/>
+	<SubTexture name="Girlfriend Left Pose0009" x="3225" y="829" width="637" height="807" frameX="-11" frameY="-11" frameWidth="711" frameHeight="818"/>
+	<SubTexture name="Girlfriend Pose Left0000" x="4509" y="829" width="685" height="771"/>
+	<SubTexture name="Girlfriend Pose Left0001" x="5194" y="829" width="622" height="771" frameX="0" frameY="0" frameWidth="685" frameHeight="771"/>
+	<SubTexture name="Girlfriend Pose Left0002" x="5816" y="829" width="609" height="762" frameX="0" frameY="-9" frameWidth="685" frameHeight="771"/>
+	<SubTexture name="Girlfriend Pose Left0003" x="5816" y="829" width="609" height="762" frameX="0" frameY="-9" frameWidth="685" frameHeight="771"/>
+	<SubTexture name="Girlfriend Pose Left0004" x="6425" y="829" width="660" height="764" frameX="0" frameY="-7" frameWidth="685" frameHeight="771"/>
+	<SubTexture name="Girlfriend Pose Left0005" x="7085" y="829" width="600" height="764" frameX="0" frameY="-7" frameWidth="685" frameHeight="771"/>
+	<SubTexture name="Girlfriend Pose Left0006" x="5816" y="829" width="609" height="762" frameX="0" frameY="-7" frameWidth="685" frameHeight="771"/>
+	<SubTexture name="Girlfriend Pose Left0007" x="5816" y="829" width="609" height="762" frameX="0" frameY="-7" frameWidth="685" frameHeight="771"/>
+	<SubTexture name="Girlfriend Pose Left0008" x="6425" y="829" width="660" height="764" frameX="0" frameY="-7" frameWidth="685" frameHeight="771"/>
+	<SubTexture name="Girlfriend Pose Left0009" x="7085" y="829" width="600" height="764" frameX="0" frameY="-7" frameWidth="685" frameHeight="771"/>
+	<SubTexture name="Girlfriend Up Pose0000" x="0" y="1658" width="618" height="851" frameX="0" frameY="-9" frameWidth="619" frameHeight="862"/>
+	<SubTexture name="Girlfriend Up Pose0001" x="618" y="1658" width="562" height="851" frameX="0" frameY="-9" frameWidth="619" frameHeight="862"/>
+	<SubTexture name="Girlfriend Up Pose0002" x="1180" y="1658" width="612" height="862" frameX="-7" frameY="0" frameWidth="619" frameHeight="862"/>
+	<SubTexture name="Girlfriend Up Pose0003" x="1792" y="1658" width="557" height="862" frameX="-7" frameY="0" frameWidth="619" frameHeight="862"/>
+	<SubTexture name="Girlfriend Up Pose0004" x="2349" y="1658" width="556" height="861" frameX="-7" frameY="-1" frameWidth="619" frameHeight="862"/>
+	<SubTexture name="Girlfriend Up Pose0005" x="2349" y="1658" width="556" height="861" frameX="-7" frameY="-1" frameWidth="619" frameHeight="862"/>
+	<SubTexture name="Girlfriend Up Pose0006" x="2905" y="1658" width="612" height="861" frameX="-7" frameY="-1" frameWidth="619" frameHeight="862"/>
+	<SubTexture name="Girlfriend Up Pose0007" x="3517" y="1658" width="557" height="861" frameX="-7" frameY="-1" frameWidth="619" frameHeight="862"/>
+	<SubTexture name="Girlfriend Up Pose0008" x="2349" y="1658" width="556" height="861" frameX="-7" frameY="-1" frameWidth="619" frameHeight="862"/>
+	<SubTexture name="Girlfriend Up Pose0009" x="2349" y="1658" width="556" height="861" frameX="-7" frameY="-1" frameWidth="619" frameHeight="862"/>
+	<SubTexture name="Girlfriend Up Pose0010" x="2905" y="1658" width="612" height="861" frameX="-7" frameY="-1" frameWidth="619" frameHeight="862"/>
+	<SubTexture name="Girlfriend Up Pose0011" x="3517" y="1658" width="557" height="861" frameX="-7" frameY="-1" frameWidth="619" frameHeight="862"/>
+	<SubTexture name="Girlfriend Up Pose0012" x="2349" y="1658" width="556" height="861" frameX="-7" frameY="-1" frameWidth="619" frameHeight="862"/>
+	<SubTexture name="Girlfriend Up Pose0013" x="2349" y="1658" width="556" height="861" frameX="-7" frameY="-1" frameWidth="619" frameHeight="862"/>
+	<SubTexture name="Girlfriend Up Pose0014" x="2905" y="1658" width="612" height="861" frameX="-7" frameY="-1" frameWidth="619" frameHeight="862"/>
+</TextureAtlas>

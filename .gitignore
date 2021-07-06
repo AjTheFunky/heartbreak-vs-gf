@@ -1,1 +1,4 @@
+export/
+.vscode/
 exportVSGF/
+APIStuff.hx

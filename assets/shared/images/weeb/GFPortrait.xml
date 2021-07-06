@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFPortrait.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf portrait0000" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0001" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0002" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0003" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0004" x="852" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0005" x="852" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0006" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0007" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0008" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0009" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0010" x="1278" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0011" x="1278" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0012" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0013" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0014" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0015" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0016" x="852" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait0017" x="852" y="0" width="416" height="314"/>
+	<SubTexture name="gf portrait console0000" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0001" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0002" x="426" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0003" x="426" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0004" x="852" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0005" x="852" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0006" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0007" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0008" x="426" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0009" x="426" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0010" x="852" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0011" x="852" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0012" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0013" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0014" x="426" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0015" x="426" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0016" x="852" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait console0017" x="852" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0000" x="1278" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0001" x="1278" y="324" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0002" x="0" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0003" x="0" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0004" x="426" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0005" x="426" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0006" x="852" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0007" x="852" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0008" x="0" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0009" x="0" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0010" x="426" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0011" x="426" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0012" x="852" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0013" x="852" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0014" x="0" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0015" x="0" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0016" x="426" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait demon0017" x="426" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0000" x="1278" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0001" x="1278" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0002" x="0" y="972" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0003" x="0" y="972" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0004" x="426" y="972" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0005" x="426" y="972" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0006" x="1278" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0007" x="1278" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0008" x="0" y="972" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0009" x="0" y="972" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0010" x="852" y="972" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0011" x="852" y="972" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0012" x="1278" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0013" x="1278" y="648" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0014" x="0" y="972" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0015" x="0" y="972" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0016" x="426" y="972" width="416" height="314"/>
+	<SubTexture name="gf portrait mad0017" x="426" y="972" width="416" height="314"/>
+</TextureAtlas>

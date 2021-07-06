@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MomPortrait.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mom portrait0000" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="mom portrait0001" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="mom portrait0002" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="mom portrait0003" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="mom portrait0004" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="mom portrait0005" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="mom portrait0006" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="mom portrait0007" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="mom portrait0008" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="mom portrait0009" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="mom portrait0010" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="mom portrait0011" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="mom portrait0012" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="mom portrait0013" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="mom portrait0014" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="mom portrait0015" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="mom portrait0016" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="mom portrait0017" x="0" y="324" width="416" height="314"/>
+</TextureAtlas>

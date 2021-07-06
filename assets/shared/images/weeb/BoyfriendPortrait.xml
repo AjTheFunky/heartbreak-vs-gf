@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoyfriendPortrait.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boyfriend portrait0000" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0001" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0002" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0003" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0004" x="852" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0005" x="852" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0006" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0007" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0008" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0009" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0010" x="852" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0011" x="852" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0012" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0013" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0014" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0015" x="426" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0016" x="852" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait0017" x="852" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0000" x="1278" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0001" x="1278" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0002" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0003" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0004" x="426" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0005" x="426" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0006" x="1278" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0007" x="1278" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0008" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0009" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0010" x="426" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0011" x="426" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0012" x="1278" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0013" x="1278" y="0" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0014" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0015" x="0" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0016" x="426" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas0017" x="426" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0000" x="852" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0001" x="852" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0002" x="1278" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0003" x="1278" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0004" x="0" y="648" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0005" x="0" y="648" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0006" x="852" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0007" x="852" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0008" x="1278" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0009" x="1278" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0010" x="0" y="648" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0011" x="0" y="648" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0012" x="852" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0013" x="852" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0014" x="1278" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0015" x="1278" y="324" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0016" x="0" y="648" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas sad0017" x="0" y="648" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0000" x="426" y="648" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0001" x="852" y="648" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0002" x="1278" y="648" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0003" x="0" y="972" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0004" x="426" y="972" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0005" x="852" y="972" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0006" x="426" y="972" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0007" x="852" y="972" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0008" x="426" y="972" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0009" x="852" y="972" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0010" x="426" y="972" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0011" x="852" y="972" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0012" x="426" y="972" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0013" x="852" y="972" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0014" x="426" y="972" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0015" x="852" y="972" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0016" x="426" y="972" width="416" height="314"/>
+	<SubTexture name="boyfriend portrait christmas scared0017" x="852" y="972" width="416" height="314"/>
+</TextureAtlas>
