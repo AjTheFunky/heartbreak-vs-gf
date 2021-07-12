@@ -40,6 +40,7 @@ class HealthIcon extends FlxSprite
 		animation.add('girlfriend-car', [24, 25], 0, false, isPlayer);
 		animation.add('demongf', [26, 27], 0, false, isPlayer);
 		animation.add('girlfriend-christmas', [24, 28], 0, false, isPlayer);
+		animation.add('girlfriend-christmas-alt', [24, 28], 0, false, isPlayer);
 		animation.play(char);
 		scrollFactor.set();
 	}

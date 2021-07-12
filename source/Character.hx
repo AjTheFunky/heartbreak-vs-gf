@@ -550,6 +550,24 @@ class Character extends FlxSprite
 
 				playAnim('idle');
 
+			case 'girlfriend-christmas-alt':
+				// DAD ANIMATION LOADING CODE
+				tex = Paths.getSparrowAtlas('Girlfriend/GirlfriendChristmasAlt');
+				frames = tex;
+				animation.addByPrefix('idle', 'Girlfriend idle dance', 24);
+				animation.addByPrefix('singUP', 'Girlfriend Sing Note UP', 24);
+				animation.addByPrefix('singRIGHT', 'Girlfriend Sing Note RIGHT', 24);
+				animation.addByPrefix('singDOWN', 'Girlfriend Sing Note DOWN', 24);
+				animation.addByPrefix('singLEFT', 'Girlfriend Sing Note LEFT', 24);
+
+				addOffset('idle');
+				addOffset("singUP", -6, 50);
+				addOffset("singRIGHT", 0, 27);
+				addOffset("singLEFT", -10, 10);
+				addOffset("singDOWN", 0, -30);
+
+				playAnim('idle');
+
 			case 'girlfriend-car':
 				tex = Paths.getSparrowAtlas('Girlfriend/GirlfriendCar');
 				frames = tex;
