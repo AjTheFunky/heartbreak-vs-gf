@@ -874,10 +874,13 @@ class PlayState extends MusicBeatState
 		add(boyfriend);
 
 		var doof:DialogueBox = new DialogueBox(false, dialogue);
+		var endshit:DialogueBox = new DialogueBox(false, dialogue);
 		// doof.x += 70;
 		// doof.y = FlxG.height * 0.5;
 		doof.scrollFactor.set();
 		doof.finishThing = startCountdown;
+		endshit.scrollFactor.set();
+		endshit.finishThing = endStuff;
 
 		function defeat():Void 
 		{
@@ -2314,7 +2317,30 @@ class PlayState extends MusicBeatState
 					transIn = FlxTransitionableState.defaultTransIn;
 					transOut = FlxTransitionableState.defaultTransOut;
 
-					FlxG.switchState(new StoryMenuState());
+					paused = true;
+
+					FlxG.sound.music.stop();
+					vocals.stop();
+					
+					if (SONG.song.toLowerCase() == "crash-n-burn"){
+						
+						Conductor.changeBPM(0);
+						
+						FlxG.switchState(new VideoState('assets/videos/end/end.webm',new MainMenuState()));
+						
+					}else{
+						endStuff();
+					}
+
+					if (SONG.song.toLowerCase() == "date-night"){
+						
+						Conductor.changeBPM(0);
+						
+						FlxG.switchState(new VideoState('assets/videos/end2/Ending.webm',new MainMenuState()));
+						
+					}else{
+						endStuff();
+					}
 
 					// if ()
 					StoryMenuState.weekUnlocked[Std.int(Math.min(storyWeek + 1, StoryMenuState.weekUnlocked.length - 1))] = true;
@@ -2368,6 +2394,13 @@ class PlayState extends MusicBeatState
 				FlxG.switchState(new FreeplayState());
 			}
 		}
+	}
+
+	function endStuff(){
+					{
+						FlxG.sound.playMusic(Paths.music('freakyMenu'));
+						FlxG.switchState(new MainMenuState());
+					}
 	}
 
 
