@@ -496,7 +496,7 @@ class PlayState extends MusicBeatState
 					bg.updateHitbox();
 					add(bg);
 
-					upperBoppers2 = new FlxSprite(-240, -140);
+					upperBoppers2 = new FlxSprite(-240, -170);
 					upperBoppers2.frames = Paths.getSparrowAtlas('christmas/upperBop2');
 					upperBoppers2.animation.addByPrefix('bop', "Upper Crowd Bob2", 24, false);
 					upperBoppers2.antialiasing = true;
