@@ -2336,7 +2336,7 @@ class PlayState extends MusicBeatState
 						
 						Conductor.changeBPM(0);
 						
-						FlxG.switchState(new VideoState('assets/videos/end2/Ending.webm',new MainMenuState()));
+						FlxG.switchState(new VideoState('assets/videos/end2/end2.webm',new MainMenuState()));
 						
 					}else{
 						endStuff();
