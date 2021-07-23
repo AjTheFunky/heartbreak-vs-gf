@@ -1138,8 +1138,6 @@ class PlayState extends MusicBeatState
 					schoolIntro(doof);
 				case 'mistletoe':
 					schoolIntro(doof);
-				case 'date-night':
-					schoolIntro(doof);
 				default:
 					startCountdown();
 			}
@@ -2333,11 +2331,7 @@ class PlayState extends MusicBeatState
 					}
 
 					if (SONG.song.toLowerCase() == "date-night"){
-						
-						Conductor.changeBPM(0);
-						
-						FlxG.switchState(new VideoState('assets/videos/end2/end2.webm',new MainMenuState()));
-						
+						FlxG.switchState(new Ending());
 					}else{
 						endStuff();
 					}

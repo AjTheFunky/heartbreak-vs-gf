@@ -48,7 +48,7 @@ class DialogueBox extends FlxSpriteGroup
 
 		switch (PlayState.SONG.song.toLowerCase())
 		{
-			case 'tutorial' | 'tutorial-remix' | 'bopanties' | 'highly-fresh':
+			case 'tutorial' | 'tutorial-remix' | 'highly-fresh':
 				FlxG.sound.playMusic(Paths.music('bop'), 0);
 				FlxG.sound.music.fadeIn(1, 0, 0.8);
 			case 'gfilfw':
@@ -94,7 +94,7 @@ class DialogueBox extends FlxSpriteGroup
 		var hasDialog = false;
 		switch (PlayState.SONG.song.toLowerCase())
 		{
-			case 'tutorial' | 'tutorial-remix' | 'bopanties' | 'highly-fresh' | 'gfilfw' | 'heartaches' | 'apart' | 'crash-n-burn' | 'holiday' | 'mistletoe' | 'date-night':
+			case 'tutorial' | 'tutorial-remix' | 'bopanties' | 'highly-fresh' | 'gfilfw' | 'heartaches' | 'apart' | 'crash-n-burn' | 'holiday' | 'mistletoe'| 'date-night':
 				hasDialog = true;
 				box.frames = Paths.getSparrowAtlas('weeb/pixelUI/dialogueBox');
 				box.animation.addByPrefix('normalOpen', 'Text Box Appear', 24, false);
