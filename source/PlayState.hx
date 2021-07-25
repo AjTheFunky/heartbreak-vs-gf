@@ -380,7 +380,7 @@ class PlayState extends MusicBeatState
 					    street.setGraphicSize(Std.int(street.width * 1.4));
 						add(street);
 			}
-			case 'milf' | 'satin-panties' | 'high' | 'heartaches' | 'apart' | 'crash-n-burn':
+			case 'milf' | 'satin-panties' | 'high' | 'heartaches' | 'apart' | 'crash-n-burn' |'expurgation':
 			{
 					curStage = 'limo';
 					defaultCamZoom = 0.90;
