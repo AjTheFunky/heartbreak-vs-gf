@@ -1,0 +1,2 @@
+The leak seems to have hidden itself in one of the files, I know it's an image file, but I don't know which one.
+We need to find it and erase it before anyone finds out about it.
