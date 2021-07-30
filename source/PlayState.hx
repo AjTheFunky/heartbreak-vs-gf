@@ -2310,31 +2310,17 @@ class PlayState extends MusicBeatState
 
 				if (storyPlaylist.length <= 0)
 				{
-					FlxG.sound.playMusic(Paths.music('freakyMenu'));
+					FlxG.sound.play(Paths.sound('vsgfendingjingle'));
+
+					new FlxTimer().start(1.0, function(tmr:FlxTimer)
+					{
+						FlxG.sound.playMusic(Paths.music('freakyMenu'));
+					});
 
 					transIn = FlxTransitionableState.defaultTransIn;
 					transOut = FlxTransitionableState.defaultTransOut;
-
-					paused = true;
-
-					FlxG.sound.music.stop();
-					vocals.stop();
 					
-					if (SONG.song.toLowerCase() == "crash-n-burn"){
-						
-						Conductor.changeBPM(0);
-						
-						FlxG.switchState(new VideoState('assets/videos/end/end.webm',new MainMenuState()));
-						
-					}else{
-						endStuff();
-					}
-
-					if (SONG.song.toLowerCase() == "date-night"){
-						FlxG.switchState(new Ending());
-					}else{
-						endStuff();
-					}
+					FlxG.switchState(new EndingState());
 
 					// if ()
 					StoryMenuState.weekUnlocked[Std.int(Math.min(storyWeek + 1, StoryMenuState.weekUnlocked.length - 1))] = true;
