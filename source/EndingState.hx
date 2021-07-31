@@ -35,7 +35,6 @@ class EndingState extends FlxState
 			FlxG.camera.fade(FlxColor.BLACK, 0.8, true);
 			if (PlayState.storyWeek == 3)		
 				end.loadGraphic(Paths.image("Girlfriend/endlmao"));
-				end.loadGraphic(Paths.image("endlmao"));
 			add(end);
 	}
 	

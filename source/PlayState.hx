@@ -1138,6 +1138,8 @@ class PlayState extends MusicBeatState
 					schoolIntro(doof);
 				case 'mistletoe':
 					schoolIntro(doof);
+				case 'date-night':
+					schoolIntro(doof);
 				default:
 					startCountdown();
 			}
