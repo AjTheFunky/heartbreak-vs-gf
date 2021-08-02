@@ -21,22 +21,22 @@ class EndingState extends FlxState
 	
 	override public function create():Void 
 	{
-		trace(PlayState.storyWeek);
-		super.create();	
+		super.create();
 		var end:FlxSprite = new FlxSprite(0, 0);
-		//ignore this messed up coding, im just dumb Aj lol
-		if (PlayState.storyWeek == 0)
-			endIt();
-		if (PlayState.storyWeek == 1)
-			endIt();
-		if (PlayState.storyWeek == 2)
-			endIt();
-		else
-			FlxG.camera.fade(FlxColor.BLACK, 0.8, true);
-			if (PlayState.storyWeek == 3)		
-				end.loadGraphic(Paths.image("Girlfriend/endlmao"));
-				end.loadGraphic(Paths.image("endlmao"));
-			add(end);
+		if (_goodEnding){
+			end.loadGraphic(Paths.image("Girlfriend/endlmao"));
+			FlxG.sound.playMusic(Paths.music("vsgfendingjingle"),1,false);
+		}else{
+			//too lazy to remove this and test stuff so both endings are the same LOL
+			end.loadGraphic(Paths.image("Girlfriend/endlmao"));
+			FlxG.sound.playMusic(Paths.music("vsgfendingjingle"),1,false);
+		}
+		add(end);
+		FlxG.camera.fade(FlxColor.BLACK, 0.8, true);
+		
+		
+		new FlxTimer().start(30, endIt);
+		
 	}
 	
 	override public function update(elapsed:Float):Void 

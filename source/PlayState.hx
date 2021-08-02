@@ -904,11 +904,6 @@ class PlayState extends MusicBeatState
 			remove(dad);
 			remove(boyfriend);
 			remove(gf);
-		if (SONG.song.toLowerCase() == 'crash-n-burn')
-			{
-			FlxG.switchState(new VideoState('assets/videos/end/end.webm', new PlayState()));
-			}
-			trace(inCutscene);
 		}
 
 		function songOutro():Void
@@ -2310,17 +2305,19 @@ class PlayState extends MusicBeatState
 
 				if (storyPlaylist.length <= 0)
 				{
-					FlxG.sound.play(Paths.sound('vsgfendingjingle'));
 
-					new FlxTimer().start(1.0, function(tmr:FlxTimer)
-					{
-						FlxG.sound.playMusic(Paths.music('freakyMenu'));
-					});
+					if (curSong == "Crash-N-Burn){
+						FlxG.switchState(new VideoState('assets/videos/end/end.webm', new PlayState()));
+
+					}if (curSong == "Date-Night"){
+						FlxG.switchState(new EndingState());
+						
+					}else{
+					FlxG.sound.playMusic(Paths.music('freakyMenu'));
+						FlxG.switchState(new StoryMenuState());
 
 					transIn = FlxTransitionableState.defaultTransIn;
 					transOut = FlxTransitionableState.defaultTransOut;
-					
-					FlxG.switchState(new EndingState());
 
 					// if ()
 					StoryMenuState.weekUnlocked[Std.int(Math.min(storyWeek + 1, StoryMenuState.weekUnlocked.length - 1))] = true;
