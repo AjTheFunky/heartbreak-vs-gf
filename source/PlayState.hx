@@ -272,6 +272,8 @@ class PlayState extends MusicBeatState
 		{
 			case 'wndrwll':
 				dialogue = ["Hey you're pretty cute.", 'Use the arrow keys to keep up \nwith me singing.'];
+			case 'swop':
+				dialogue = ["Haha.", 'you found it.'];
 			case 'bopeebo':
 				dialogue = [
 					'HEY!',
@@ -904,11 +906,7 @@ class PlayState extends MusicBeatState
 			remove(gf);
 		if (SONG.song.toLowerCase() == 'crash-n-burn')
 			{
-			// var cutscene = vsgfending(FlxG.switchState(new VideoState('assets/videos/end/end.webm', new PlayState())) );
 			FlxG.switchState(new VideoState('assets/videos/end/end.webm', new PlayState()));
-			// cutscene.cameras = [camHUD];
-			// add(cutscene);
-			// cutscene.finishThing = endSong;
 			}
 			trace(inCutscene);
 		}
