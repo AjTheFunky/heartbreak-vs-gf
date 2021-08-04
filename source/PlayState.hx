@@ -272,8 +272,6 @@ class PlayState extends MusicBeatState
 		{
 			case 'wndrwll':
 				dialogue = ["Hey you're pretty cute.", 'Use the arrow keys to keep up \nwith me singing.'];
-			case 'swop':
-				dialogue = ["Haha.", 'you found it.'];
 			case 'bopeebo':
 				dialogue = [
 					'HEY!',
@@ -485,7 +483,7 @@ class PlayState extends MusicBeatState
 					santa.antialiasing = true;
 					add(santa);
 			}
-			case 'mistletoe':
+			case 'mistletoe' | 'swop':
 			{
 						curStage = 'mall2';
 					defaultCamZoom = 0.80;
@@ -2305,19 +2303,20 @@ class PlayState extends MusicBeatState
 
 				if (storyPlaylist.length <= 0)
 				{
-
-					if (curSong == "Crash-N-Burn){
-						FlxG.switchState(new VideoState('assets/videos/end/end.webm', new PlayState()));
-
-					}if (curSong == "Date-Night"){
+					if (curSong == "Crash-N-Burn"){
+						FlxG.switchState(new VideoState('assets/videos/end/end.webm', new StoryMenuState()));
+					}
+					if (curSong == "Date-Night"){
 						FlxG.switchState(new EndingState());
-						
 					}else{
 					FlxG.sound.playMusic(Paths.music('freakyMenu'));
 						FlxG.switchState(new StoryMenuState());
+					}
 
 					transIn = FlxTransitionableState.defaultTransIn;
 					transOut = FlxTransitionableState.defaultTransOut;
+
+					FlxG.switchState(new StoryMenuState());
 
 					// if ()
 					StoryMenuState.weekUnlocked[Std.int(Math.min(storyWeek + 1, StoryMenuState.weekUnlocked.length - 1))] = true;
